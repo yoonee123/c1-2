@@ -1,6 +1,6 @@
 #include <stdio.h>
 void max(int num) {
-	printf("ÀÔ·ÂÇÑ µÎ °ªÁß Å« °ªÀº : %d", num);
+	printf("ì…ë ¥í•œ ë‘ ê°’ì¤‘ í° ê°’ì€ : %d", num);
 }
 int main(void)
 {
