@@ -5,7 +5,7 @@ void sum(int num) {
 	{
 		hap += i;
 	}
-	printf("ÀÔ·ÂÇÑ Á¤¼ö±îÁöÀÇ ÁDÀº : %d", hap);
+	printf("ì…ë ¥í•œ ì •ìˆ˜ê¹Œì§€ì˜ í•©ì€ : %d", hap);
 }
 int main6(void)
 {
