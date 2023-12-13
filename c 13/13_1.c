@@ -7,7 +7,7 @@ void count(int num)
 		if (num % i == 0)
 			cnt++;
 	}
-	printf("ÀÔ·ÂÇÑ °ªÀÇ ¾à¼ö´Â %d", cnt);
+	printf("ì…ë ¥í•œ ê°’ì˜ ì•½ìˆ˜ëŠ” %d", cnt);
 }
 int main1()
 {
