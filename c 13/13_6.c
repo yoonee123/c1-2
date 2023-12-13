@@ -8,7 +8,7 @@ int input3()
 int divisor2(int a)
 {
 	int i;
-	printf("ÀÔ·ÂÇÑ °ªÀÇ ¾à¼ö´Â : ");
+	printf("ì…ë ¥í•œ ê°’ì˜ ì•½ìˆ˜ëŠ” : ");
 	for (i = 1; i <= a; i++)
 	{
 		if (a % i == 0)
