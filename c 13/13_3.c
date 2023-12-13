@@ -11,7 +11,7 @@ int sum(int a, int b)
 }
 int main3()
 {
-	printf("�հ� : %d", input1());
+	printf("ÇÕ°è : %d", input1());
 
 	return 0;
 }
