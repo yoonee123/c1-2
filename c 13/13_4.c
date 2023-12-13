@@ -16,5 +16,5 @@ int hap(int a)
 }
 int main4()
 {
-	printf("ÀÔ·ÂÇÑ °ª±îÁöÀÇ ÇÕ°è´Â : %d", hap(input2()));
+	printf("ì…ë ¥í•œ ê°’ê¹Œì§€ì˜ í•©ê³„ëŠ” : %d", hap(input2()));
 }
